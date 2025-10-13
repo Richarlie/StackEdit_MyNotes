@@ -243,7 +243,8 @@ Such as:
 
 
 ### 终：类的完整声明方式
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODUzMTQ3NywxNDM3NTQ1MTQ5LC00MD
-M3MDY2MjldfQ==
+eyJoaXN0b3J5IjpbMjc5MTIyMjA1LDE0Mzc1NDUxNDksLTQwMz
+cwNjYyOV19
 -->
