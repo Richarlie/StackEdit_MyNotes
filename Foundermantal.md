@@ -239,15 +239,12 @@ Such as:
 >[public abstract] 方法
 >}
 
-**抽象类和接口的区别？**：
-
-
 ### 终：类的完整声明方式
 >[修饰符] calss 类名 [extends 父类名] [implements 接口1，接口2，······]{
 >属性
 >方法
 >}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ0MDIwNTgsMTQzNzU0NTE0OSwtND
-AzNzA2NjI5XX0=
+eyJoaXN0b3J5IjpbMTQxNDY4NTQ2NSwxNDM3NTQ1MTQ5LC00MD
+M3MDY2MjldfQ==
 -->
