@@ -234,7 +234,14 @@ Such as:
 |属性|public static|
 |方法|public abstract|
 接口和类定义的区别只在于一个是class一个是interface
->
+>[修饰符] interface 接口名{
+>[public static] 属性
+>[public abstract] 方法
+>}
+
+**抽象类和接口的区别？**：
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzU0NTE0OSwtNDAzNzA2NjI5XX0=
+eyJoaXN0b3J5IjpbLTE1NjU1MzA1NTcsMTQzNzU0NTE0OSwtND
+AzNzA2NjI5XX0=
 -->
