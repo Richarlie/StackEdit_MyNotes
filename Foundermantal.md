@@ -233,6 +233,8 @@ Such as:
 |:--:|:--:|
 |属性|public static|
 |方法|public abstract|
+接口和类定义的区别只在于一个是classy
+>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzcwNjYyOV19
+eyJoaXN0b3J5IjpbNTk1NzQyNzAwLC00MDM3MDY2MjldfQ==
 -->
