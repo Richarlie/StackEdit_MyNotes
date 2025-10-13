@@ -241,7 +241,9 @@ Such as:
 
 **抽象类和接口的区别？**：
 
+
+### 终：类的完整声明方式
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1MzA1NTcsMTQzNzU0NTE0OSwtND
-AzNzA2NjI5XX0=
+eyJoaXN0b3J5IjpbLTQ5ODUzMTQ3NywxNDM3NTQ1MTQ5LC00MD
+M3MDY2MjldfQ==
 -->
