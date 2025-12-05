@@ -247,7 +247,10 @@ Such as:
 
 
 ### 终：类的完整声明方式
+
+### 11.泛型类
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY5MTIwNzYsMTQxNDY4NTQ2NSwxND
-M3NTQ1MTQ5LC00MDM3MDY2MjldfQ==
+eyJoaXN0b3J5IjpbMTk2MDEwNjU5NiwtMTkwNjkxMjA3NiwxND
+E0Njg1NDY1LDE0Mzc1NDUxNDksLTQwMzcwNjYyOV19
 -->
