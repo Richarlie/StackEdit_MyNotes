@@ -204,7 +204,7 @@ Such as:
 ### 8.对象转型(Casting)
 一个父类的引用可以指向子类的对象（**父类引用指向子类对象**）
 若一个父类的引用指向子类对象，那么该对象不能再访问子类新增的成员——**可以想象子类是父类的extension**
-若一个父类的引用指向了子类对象，叫做向上转型，反之叫做向下转型——范围越大越上级呗
+若一个父类的引用指向了子类对象，叫做向上转型，反之叫做向下转型——**范围越大越上级呗**
 #### 父类引用指向子类对象 (e.g.父类——Person，子类——Student)
 >Person p = new Student();
 这样子的话就没办法再访问子类新增的成员了（就是不能再用Student类中的school、id等属性了）
@@ -251,6 +251,7 @@ Such as:
 ### 11.泛型类
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDEwNjU5NiwtMTkwNjkxMjA3NiwxND
-E0Njg1NDY1LDE0Mzc1NDUxNDksLTQwMzcwNjYyOV19
+eyJoaXN0b3J5IjpbOTkxNDY1NDQ0LDE5NjAxMDY1OTYsLTE5MD
+Y5MTIwNzYsMTQxNDY4NTQ2NSwxNDM3NTQ1MTQ5LC00MDM3MDY2
+MjldfQ==
 -->
